@@ -1,0 +1,38 @@
+.filter {
+    box-shadow: 0 0 3px gray;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.transaction-form label {
+    color: rgb(86, 75, 75) !important;
+}
+
+.transaction-form input,
+.transaction-form input:focus {
+    border: 1px solid gray;
+    box-shadow: none !important;
+}
+
+.view-switch {
+    border: 1px solid rgba(0, 0, 0, 0.773);
+    margin-right: 30px;
+    border-radius: 5px;
+}
+
+.anticon svg {
+    font-size: 30px;
+    cursor: pointer;
+    margin: 8px 16px;
+
+}
+
+
+
+.active-icon {
+    color: black;
+}
+
+.inactive-icon {
+    color: gray;
+}
